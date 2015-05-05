@@ -1,2 +1,2 @@
-Lesson 1
-greet
+Lesson 2
+mocha
